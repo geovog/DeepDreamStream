@@ -3,6 +3,8 @@ Attempt to create live stream of google's deep dream generator in a virtual ip w
 
 Resources:
 
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+
 https://github.com/gebart/python-v4l2capture
 https://github.com/umlaeute/v4l2loopback
 https://github.com/TimSC/libvideolive
