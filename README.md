@@ -39,3 +39,5 @@ conda create -n tf-gpu tensorflow-gpu==2.0
 conda activate tf-gpu
 
 conda create -n tf-gpu-cuda8 tensorflow-gpu cudatoolkit=10.0
+
+conda activate tf-gpu-cuda8
