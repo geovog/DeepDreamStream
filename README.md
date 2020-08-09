@@ -1,5 +1,5 @@
 # DeepDreamStream
-Attempt to create live stream of google's deep dream generator in a virtual ip webcam interface (Linux?)
+Attempt to create live stream of google's deep dream generator in a virtual ip webcam interface ([Using Obs and NDI plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/))
 
 Resources:
 
