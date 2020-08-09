@@ -1,15 +1,11 @@
 # DeepDreamStream
 Attempt to create live stream of google's deep dream generator in a virtual ip webcam interface ([Using Obs and NDI plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/))
 
-Resources:
+Resources/Credits:
 
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
 
-https://github.com/gebart/python-v4l2capture
-
-https://github.com/umlaeute/v4l2loopback
-
-https://github.com/TimSC/libvideolive
+https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/
 
 https://github.com/google/deepdream
 
