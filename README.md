@@ -18,15 +18,15 @@ Prerequisites(Windows):
 
 Install Anaconda3 and use Anaconda Powershell Prompt (Anaconda3)
 
-conda create --name py35 python=3.5
-conda activate py35
-pip install imutils
-pip install numpy
-pip install imagezmq
-pip install opencv-contrib-python
-conda install -c conda-forge jupyterlab
-conda install matplotlib
-conda create -n tf-gpu tensorflow-gpu==2.0
-conda activate tf-gpu
+>conda create --name py35 python=3.5
+>conda activate py35
+>pip install imutils
+>pip install numpy
+>pip install imagezmq
+>pip install opencv-contrib-python
+>conda install -c conda-forge jupyterlab
+>conda install matplotlib
+>conda create -n tf-gpu tensorflow-gpu==2.0
+>conda activate tf-gpu
 
-conda create -n tf-gpu-cuda8 tensorflow-gpu cudatoolkit=10.0
+>conda create -n tf-gpu-cuda8 tensorflow-gpu cudatoolkit=10.0
