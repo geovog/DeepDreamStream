@@ -11,9 +11,11 @@ https://github.com/google/deepdream
 
 https://github.com/graphific/DeepDreamVideo
 
+https://www.tensorflow.org/tutorials/generative/deepdream
+
 https://medium.com/@ODSC/the-beginners-guide-for-video-processing-with-opencv-4e39795b942a
 
-https://www.youtube.com/watch?v=K_am9oMeweA
+
 
 
 Prerequisites(Windows):
