@@ -1,5 +1,10 @@
 # DeepDreamStream
-Attempt to create live stream of google's deep dream generator in a virtual ip webcam interface ([Using Obs and NDI plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/))
+Attempt to create live stream of google's deep dream generator in a virtual ip webcam interface 
+([Using Obs and NDI plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/))
+Proccess goes like this:
+Capture video through usb camera on client pc
+Send footage via imagezmq to the server pc where each frame is beeing feeded to a pretrained deepdream caffe model (imagenet dataset)
+and output the processed frame to a live stream (The two pcs are in the same LAN network) .
 
 Resources/Credits:
 
