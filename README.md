@@ -39,6 +39,8 @@ pip install numpy
 
 pip install imagezmq
 
+pip install ISR
+
 pip install opencv-contrib-python
 
 conda install -c conda-forge jupyterlab
